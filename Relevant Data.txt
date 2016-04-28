@@ -1,0 +1,19 @@
+Using data from Pleasants & Oberhauser:
+
+Egg production (m^2) vs Time: Data range from 1999 - 2000
+y = -17213x + 3E+07
+Regression line equation (www.alcula.com/calculators/statistics/linear-regression)
+y=34637516.550117-17213.286713287x
+
+
+
+Using data from Xerces and WWF mexico:
+Population vs Time: Data range from 1993 - 2014
+
+Regression line equation (Alcula)
+ y=44717632190.974-22168383.74026x
+
+
+Using Data from Ramirez et al
+Population vs time: Data range from 2012 - 2090 (four points)
+y = 3E+40 * e^(-0.041x) \\\\\\ Excel

@@ -1,0 +1,13 @@
+frmMainMenu = 0, 0, 347, 471, , 60, 24, 844, 715, C
+frmSimMain = 293, 84, 640, 555, , 67, -10, 940, 676, C
+D_Plexippus_Mod = 142, 196, 489, 667, 
+frmSummer = 1041, 0, 1388, 471, , 78, 42, 881, 526, C
+frmMigrate = 490, 138, 837, 609, , 224, -10, 810, 461, C
+frmOverWintering = 69, 43, 849, 673, C, -17, 24, 1060, 654, C
+RMChartDeclares = 0, 0, 0, 0, C
+frmPopVsTime = 28, 26, 809, 510, , -12, -10, 769, 604, C
+frmPopVsOyamel = 408, 27, 1189, 513, , 101, 3, 882, 631, C
+frmCornVsPopVsTime = -307, 182, 770, 812, C, 64, 35, 1141, 665, C
+frmMoneyVsPopVsTime = -140, 32, 937, 662, C, 134, 12, 1211, 642, C
+frmChooseGraph = 210, 231, 926, 689, , 130, 130, 846, 588, C
+frmAbout = 52, 52, 768, 510, C, 26, 26, 742, 484, C
